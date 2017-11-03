@@ -1,0 +1,219 @@
+.box{
+	width: 100%;
+	height:40px;
+	background-color: #333;
+	
+}
+.box-wenzi{
+	color: #b0b0b0;
+	float: left;
+	line-height: 40px;
+	font-size: 12px;
+	cursor: pointer;
+
+}
+.box-wenzi:hover{
+	color: #fff;
+}
+.neikuan{
+	width: 1226px;
+	height: 40px;
+	background-color: #333;
+	margin: 0 auto;
+}
+.box-shuxian{
+	float: left;
+	color: #424242;
+	line-height: 40px;
+	margin:0 5px;
+
+}
+.box-left{
+	float: left;
+}
+.box-right{
+	float: right;
+}
+
+.nav-neikuan{
+	width: 1226px;
+	height: 100px;
+	background-color: pink;
+	margin: 0 auto;
+	overflow: hidden;
+	cursor: pointer;
+}
+.logo{
+	width: 55px;
+	height: 55px;
+	background-color: greenyellow;
+	margin-top: 22.5px;
+	float: left;
+}
+.nva-wenzi{
+	float: left;
+	margin-left: 190px;
+	line-height: 100px;
+	margin-right: 20px;
+
+}
+.nva-font{
+	float: left;
+	line-height: 100px;
+	margin-right: 20px;
+	color:#333;
+	font-size: 16px;
+
+}
+
+.nva-font:hover{
+	color: orangered;
+	
+}
+.list{
+	width: 1226px;
+	height: 170px;
+	background-color: greenyellow;
+	margin: 0 auto;
+	margin-top: 14px;
+}
+.list-tu{
+	width: 316px;
+	height: 170px;
+	background-color: blue;
+	float: left;
+	transition: all 0.5s linear;
+}
+.list-tu1{
+	width: 234px;
+}
+.list-tu2{
+	float: right;
+}
+.list-tu3{
+	margin: 0 15px;
+}
+.list-tu:hover{
+	box-shadow: 0px 15px 30px  rgba(0, 0, 0, 0.1);
+}
+
+.danpin{
+	width: 1226px;
+	height: 438px;
+	background-color: pink;
+	margin: 0 auto;
+	margin-top: 26px;
+}
+.danpin-top{
+	background-color: #ccc;
+	width: 1226px;
+	height: 58px;
+}
+.danpin-left{
+	float: left;
+	line-height: 58px;
+	font-size: 22px;
+	font-weight: 200;
+	color: #333;
+	
+}
+.danpin-right{
+	float: right;
+	width: 70px;
+	height: 23px;
+	background-color: #000;
+	margin-top: 16.5px;
+
+	
+}
+.danpin-right a{
+	width: 33px;
+	height: 25px;
+	float: left;
+	background-color: red;
+	border: 1px solid #333;
+	line-height: 23px;
+	text-align: center;
+}
+.danpin-bottom{
+	width: 1226px;
+	height: 380px;
+	background-color: #bcbcbc;
+
+}
+.danpin-contant{
+	width: 234px;
+	height: 300px;
+	background-color: #fafafa;
+	border-top: 1px solid orangered;
+	padding-top: 39px;
+	float: left;
+	margin-right: 14px;
+
+	
+}
+.danpin-tu{
+	width: 160px;
+	height: 166px;
+
+	margin: 0 auto;
+	display: block;
+}
+.danpin-wenzi1{
+	font-size: 14px;
+	font-weight: 400;
+	color: #212121;
+	display: block;
+	margin-top: 22px;
+	text-align: center;
+}
+.danpin-wenzi2{
+	font-size: 12px;
+	color: #b0b0b0;
+	font-weight: normal;
+	display: block;
+	margin-top: 3px;
+	text-align: center;
+
+}
+.danpin-wenzi3{
+	font-size: 12px;
+	color: #ff6709;
+	font-weight: normal;
+	display: block;
+	margin-top: 12px;
+	text-align: center;
+}
+.x1{
+	border-top: 1px solid blue;
+}
+.x2{
+	border-top: 1px solid greenyellow;
+}
+.x3{
+	border-top: 1px solid red;
+}
+.x4{
+	border-top: 1px solid pink;
+	margin-right: 0;
+}
+.buy{
+	display: block;
+	float: left;
+	width: 120px;
+	height: 40px;
+	margin-left: 12px;
+	background-color: #424242;
+	/* text-align: center; */
+	color: #b0b0b0;
+	font-size: 12px;
+	line-height: 40px;
+	text-align: center;
+}
+.buy .iconfont{
+	font-size: 20px;
+}
+.buy:hover{
+	background-color: #fff;
+	color: orangered;
+}
